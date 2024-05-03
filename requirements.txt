@@ -8,4 +8,4 @@ opencv-contrib-python>=4.1.0.25
 pytesseract==0.2.7
 fuzzywuzzy
 cherrypy==18.1.2
-tqdm==4.32.2
+tqdm==4.66.3
